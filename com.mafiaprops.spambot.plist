@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.mafiaprops.spambot</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/tylernguyen/Documents/Mafia Props/MafiaPropsBot/venv/bin/python3</string>
+        <string>/Users/tylernguyen/Documents/Mafia Props/MafiaPropsBot/bot.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/tylernguyen/Documents/Mafia Props/MafiaPropsBot</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/Users/tylernguyen/Documents/Mafia Props/MafiaPropsBot/bot.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/tylernguyen/Documents/Mafia Props/MafiaPropsBot/bot.log</string>
+</dict>
+</plist>
